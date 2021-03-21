@@ -1,0 +1,9 @@
+<script src="<?php echo base_url('resources/front/js/jquery-ui.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/popper.min.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/bootstrap.min.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/owl.carousel.min.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/jquery.magnific-popup.min.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/vendors/rateyo/jquery.rateyo.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/aos.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/main.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/global.js'); ?>"></script>
